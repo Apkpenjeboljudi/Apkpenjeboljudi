@@ -1,0 +1,39 @@
+body {
+    background-color: black; /* Warna latar belakang hitam */
+    color: green; /* Warna teks hijau */
+    font-family: Arial, sans-serif; /* Font yang lebih baik */
+}
+
+.container {
+    margin-top: 50px; /* Jarak atas untuk kontainer */
+}
+
+.card {
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.8); /* Latar belakang kartu dengan transparansi */
+    border: 1px solid green; /* Border hijau pada kartu */
+    padding: 20px; /* Padding untuk kartu */
+    border-radius: 10px; /* Sudut membulat untuk kartu */
+}
+
+.card img {
+    width: 331px; /* Lebar gambar */
+    height: 331px; /* Tinggi gambar */
+    border-radius: 10px; /* Sudut membulat untuk gambar */
+}
+
+h2 {
+    color: lime; /* Warna hijau cerah untuk judul */
+}
+
+.steps {
+    font-weight: bold;
+}
+
+.form-group {
+    margin-bottom: 15px; /* Jarak bawah untuk grup formulir */
+}
+
+.btn {
+    margin-top: 10px; /* Jarak atas untuk tombol */
+}
